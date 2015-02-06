@@ -3,7 +3,7 @@
 Summary:        Telepathy contact list application
 Name:           telepathy-kde-contact-list
 Version:	0.5.1
-Release:        1
+Release:        2
 Url:            https://projects.kde.org/projects/extragear/network/telepathy/ktp-contact-list
 Source0:        ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/telepathy-kde/%version/src/%srcname-%version.tar.bz2
 License:        GPLv2+
